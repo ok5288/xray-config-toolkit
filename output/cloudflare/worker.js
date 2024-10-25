@@ -170,17 +170,17 @@ const proxiesList = [
   {
     name: 'Link',
     type: 'url',
-    data: 'https://raw.githubusercontent.com/ok5288/xray-config-toolkit/main/output/base64/mix'
+    data: 'https://raw.githubusercontent.com/wuqb2i4f/xray-config-toolkit/main/output/base64/mix'
   },
   {
     name: 'Link-fragment',
     type: 'url',
-    data: 'https://raw.githubusercontent.com/ok5288/xray-config-toolkit/main/output/json/custom/mix-fragment.json'
+    data: 'https://raw.githubusercontent.com/wuqb2i4f/xray-config-toolkit/main/output/json/custom/mix-fragment.json'
   },
   {
     name: 'Link-balancer',
     type: 'url',
-    data: 'https://raw.githubusercontent.com/ok5288/xray-config-toolkit/main/output/json/custom/mix-balancer.json'
+    data: 'https://raw.githubusercontent.com/wuqb2i4f/xray-config-toolkit/main/output/json/custom/mix-balancer.json'
   },
   {
     name: 'sample-list-uri',
