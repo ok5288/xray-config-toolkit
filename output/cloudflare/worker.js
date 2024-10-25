@@ -182,6 +182,36 @@ const proxiesList = [
     type: 'url',
     data: 'https://raw.githubusercontent.com/wuqb2i4f/xray-config-toolkit/main/output/json/custom/mix-balancer.json'
   },
+    {
+    name: 'wuqb2i4f-custom',
+    type: 'url',
+    data: 'https://raw.githubusercontent.com/wuqb2i4f/xray-config-toolkit/main/output/fragment/mix.json'
+  },
+  {
+    name: 'yebekhe',
+    type: 'url',
+    data: 'https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/base64/mix'
+  },
+  {
+    name: 'mfuu',
+    type: 'url',
+    data: 'https://raw.githubusercontent.com/mfuu/v2ray/master/v2ray'
+  },
+  {
+    name: 'mahdibland',
+    type: 'url',
+    data: 'https://raw.githubusercontent.com/mahdibland/ShadowsocksAggregator/master/Eternity'
+  },
+  {
+    name: 'Leon406',
+    type: 'url',
+    data: 'https://raw.githubusercontent.com/Leon406/SubCrawler/master/sub/share/vless'
+  },
+  {
+    name: 'a2470982985',
+    type: 'url',
+    data: 'https://raw.githubusercontent.com/a2470982985/getNode/main/v2ray.txt'
+  },
   {
     name: 'sample-list-uri',
     type: 'uri',
